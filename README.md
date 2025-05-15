@@ -15,8 +15,8 @@ I'm a graduate student at Northwestern University studying Integrated Marketing 
 
 
 ## Contact Me
-Email: sherylxu0930@gmail.com
-LinkedIn: https://linkedin.com/in/sheryl-xu
+##### Email: sherylxu0930@gmail.com
+##### LinkedIn: https://linkedin.com/in/sheryl-xu
 
 ## Technical Skills
 
