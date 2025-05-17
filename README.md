@@ -1,7 +1,6 @@
 ## Hi, I'm Sheryl Xu 👋
 
 ## About Me
-Hi, I'm Sheryl Xu.  
 I'm currently doing my **Master's in Integrated Marketing Communications (IMC) at Northwestern University** and I have a **Bachelor's at Washington University in St. Louis for Film and Media Studies**. 
 My focuses at IMC are Consumer Insight & Analytics and Branding, and I hope to work in Business/Data Analytics and/or Marketing.
 
