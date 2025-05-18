@@ -5,7 +5,7 @@ I'm currently doing my **Master's in Integrated Marketing Communications (IMC) a
 My focuses at IMC are Consumer Insight & Analytics and Branding, and I hope to work in Business/Data Analytics and/or Marketing.
 
 #### 🌱 Quick Summary of Professional Experiences:
-##### Marketing Intern @ WeJob HR Solutions
+##### Graduate Marketing Consultant @ Creative Capitol
 ##### Marketing Intern @ KOOK
 ##### Marketing Specialist @ Northwestern Kellogg School Greater China Business Conference
 ##### Marketing and Design Specialist @ MirrorVision
