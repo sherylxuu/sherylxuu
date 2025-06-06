@@ -2,7 +2,8 @@
 
 ## About Me
 I'm currently doing my **Master's in Integrated Marketing Communications (IMC) at Northwestern University** and I hold a **Bachelor's at Washington University in St. Louis in Film and Media Studies**. 
-My focus at Northwestern’s IMC are  **marketing analytics, data science, and consumer insights**. My hands-on experience has taught me to transform raw data into actionable insights—optimizing digital campaigns, driving measurable performance gains, predicting sales and churn, and identifying future product growth opportunities. I thrive on leveraging analytics to understand audience behavior and refine marketing strategies, ensuring every decision is grounded in data..
+<br>
+My focus at Northwestern’s IMC are  **marketing analytics, data science, and consumer insights**. My hands-on experience has taught me to transform raw data into actionable insights—optimizing digital campaigns, driving measurable performance gains, predicting sales and churn, and identifying future product growth opportunities. I thrive on leveraging analytics to understand audience behavior and refine marketing strategies, ensuring every decision is grounded in data.
 
 #### 🌱 Quick Summary of Professional Experiences:
 ##### Marketing Consultant @ Lincoln Financial
