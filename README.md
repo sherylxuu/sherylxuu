@@ -9,7 +9,7 @@ My focus at Northwestern’s IMC are  **marketing analytics, data science, and c
 ##### Marketing Consultant @ Lincoln Financial
 ##### Graduate Marketing Consultant @ Creative Capitol
 ##### Marketing Specialist @ Northwestern Kellogg School Greater China Business Conference
-##### Marketing and Design Specialist @ MirrorVision
+##### Marketing and Design Specialist @ Mirror Vision
 ##### Research Assistant @ WashU
 ##### Content and Sales Intern @ ShopShops
 ##### Account Executive Intern @ BlueFocus
