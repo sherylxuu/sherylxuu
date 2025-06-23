@@ -1,5 +1,6 @@
 ## Hi, I'm Sheryl Xu 👋
 
+![](https://komarev.com/ghpvc/?username=sherylxuu&label=PROFILE+VIEWS)
 ![bio](https://github-readme-stats.vercel.app/api?username=sherylxuu&show_icons=true&&hide=prs,issues)
 
 ## About Me
