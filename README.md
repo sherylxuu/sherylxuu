@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sherylxuu&label=PROFILE+VIEWS)
 <br>
-![bio](https://github-readme-stats.vercel.app/api?username=sherylxuu&show_icons=true&&hide=prs,issues)
 
 ## About Me
 I'm currently doing my **Master's in Integrated Marketing Communications (IMC) at Northwestern University** and I hold a **Bachelor's at Washington University in St. Louis in Film and Media Studies**. 
