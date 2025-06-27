@@ -8,17 +8,6 @@ I'm currently doing my **Master's in Integrated Marketing Communications (IMC) a
 <br>
 My studying focuses are  **marketing analytics, data science, and consumer insights**. My hands-on experience has taught me to transform raw data into actionable insights—optimizing digital campaigns, driving measurable performance gains, predicting sales and churn, and identifying future product growth opportunities. I thrive on leveraging analytics to understand audience behavior and refine marketing strategies, ensuring every decision is grounded in data.
 
-#### 🌱 Quick Summary of Professional Experiences:
-##### Marketing Consultant @ Lincoln Financial
-##### Graduate Marketing Consultant @ Creative Capitol
-##### Marketing Specialist @ Northwestern Kellogg School Greater China Business Conference
-##### Marketing and Design Specialist @ Mirror Vision
-##### Research Assistant @ WashU
-##### Content and Sales Intern @ ShopShops
-##### Account Executive Intern @ BlueFocus
-##### Marketing Intern @ WE Marketing Group
-
-
 ## Contact Me
 ##### Email: sherylxu0930@gmail.com
 ##### LinkedIn: https://linkedin.com/in/sheryl-xu
