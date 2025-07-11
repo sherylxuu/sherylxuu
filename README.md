@@ -10,8 +10,8 @@ My studying focuses are  **marketing analytics, data science, and consumer insig
 
 ## Contact Me
 <p align="left">
-  <a href=https://www.linkedin.com/in/sheryl-xu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&color=0077B5" height="25"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sherylxu0930@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail&color=D14836" height="25"></a>
+  <a href=https://www.linkedin.com/in/sheryl-xu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&color=0077B5" height="45"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sherylxu0930@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail&color=D14836" height="45"></a>
 </p>
 
 ## Technical Skills
