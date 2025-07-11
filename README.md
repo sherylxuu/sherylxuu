@@ -26,3 +26,9 @@ My studying focuses are  **marketing analytics, data science, and consumer insig
 | 8 | Social Listening | ![Brandwatch](https://img.shields.io/badge/brandwatch-0066CC?style=for-the-badge&logo=brandwatch&logoColor=white) ![Brand24](https://img.shields.io/badge/brand24-00bb00?style=for-the-badge&logo=brand24&logoColor=white) ![Communalytic](https://img.shields.io/badge/Communalytic-ffd9ec?style=for-the-badge&logo=Communalytic&logoColor=black)
 
 <!--
+
+#### 📫 Get in Touch
+<p align="left">
+  <a href=https://www.linkedin.com/in/sheryl-xu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&color=0077B5" height="25"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sherylxu0930@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail&color=D14836" height="25"></a>
+</p>
